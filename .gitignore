@@ -1,1 +1,5 @@
+#ignore all the picture
 *.jpg
+
+#ignore the folder of binary files
+Image
